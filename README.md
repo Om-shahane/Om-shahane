@@ -38,8 +38,7 @@ Email Me 👉 ✉️ **omshahane400@gmail.com** For Collaboration/Project or Any
 * 🧴 **Bottle Website** — Web development project
 * 💰 **Employee Payroll System** — C++ OOP project
 
-## 🌐 Socials:Om Shahane
-## 🌐 Socials
+## 🌐 Socials : Om Shahane
 
 <p align="left">
   <a href="https://www.facebook.com/Om Shahane" target="_blank">
